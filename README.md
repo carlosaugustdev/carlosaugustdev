@@ -2,11 +2,11 @@
 
 <strong>Hi, I´m Carlos Augusto</strong> 🚀
 
-- 🔭 Sou desenvolvedor/especialista em Power Platform
-- 🌱 Estudando javascript e node.js, react native e Expo
-- 👯 Disponível para contribuir com 
-- 🤔 Otimista com o os novos desafios do desenvolvimento Mobile
-- 💬 Posso te ajudar com Power Platform(Power BI, Automate e Power Apps) e Azure (AML, ADF), HTML, CSS
+- 🔭 I'm a Power Platform developer/expert
+- 🌱 Studying javascript and node.js, react native and Expo
+- 👯 Available to contribute to the community
+- 🤔 Optimistic about the new challenges of Mobile development
+- 💬 I can help you with Power Platform(Power BI, Automate and Power Apps) and Azure (AML, ADF), HTML, CSS
 - 📫 how to reach me: carlosaugustodev@outlook.com or @caugusto-ribeiro
 
 <strong>Technologies:</strong>
